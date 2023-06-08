@@ -18,6 +18,17 @@
 		C41C681F2A287CC60045828D /* SwiftUIColorSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41C681E2A287CC60045828D /* SwiftUIColorSystem.swift */; };
 		C41C68222A287DD00045828D /* UnderstandingLayoutPriority.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41C68212A287DD00045828D /* UnderstandingLayoutPriority.swift */; };
 		C41C68292A2881440045828D /* DifferentStokeType.swift in Sources */ = {isa = PBXBuildFile; fileRef = C41C68282A2881440045828D /* DifferentStokeType.swift */; };
+		C43F72232A31DA7B00705735 /* MaskAppleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43F72222A31DA7B00705735 /* MaskAppleView.swift */; };
+		C43F72272A31DB6900705735 /* ClippingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43F72262A31DB6900705735 /* ClippingView.swift */; };
+		C43F722B2A31DCDE00705735 /* GradientTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43F722A2A31DCDE00705735 /* GradientTextView.swift */; };
+		C43F722F2A31DDA700705735 /* AppleHomePod.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43F722E2A31DDA700705735 /* AppleHomePod.swift */; };
+		C43F72352A31E00700705735 /* AppleAlbumIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43F72342A31E00700705735 /* AppleAlbumIcon.swift */; };
+		C43F72392A31E0D100705735 /* DashedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43F72382A31E0D100705735 /* DashedView.swift */; };
+		C43F723D2A31E17500705735 /* FlipView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43F723C2A31E17500705735 /* FlipView.swift */; };
+		C43F72412A31E26B00705735 /* DashesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43F72402A31E26B00705735 /* DashesView.swift */; };
+		C43F72452A31E43C00705735 /* GradientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43F72442A31E43C00705735 /* GradientsView.swift */; };
+		C43F724A2A31E4B300705735 /* RotateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43F72492A31E4B300705735 /* RotateView.swift */; };
+		C43F724E2A31E53E00705735 /* RotateViewsSArountAPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = C43F724D2A31E53E00705735 /* RotateViewsSArountAPoint.swift */; };
 		C4FDA54E2A2B186F00707632 /* MenuExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4FDA54D2A2B186F00707632 /* MenuExampleView.swift */; };
 		C4FDA5512A2B193D00707632 /* TabExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4FDA5502A2B193D00707632 /* TabExampleView.swift */; };
 		C4FDA5572A2B1A0100707632 /* ToolbarViewExampl;e.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4FDA5562A2B1A0100707632 /* ToolbarViewExampl;e.swift */; };
@@ -47,6 +58,28 @@
 		C41C68252A287E730045828D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C41C68282A2881440045828D /* DifferentStokeType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifferentStokeType.swift; sourceTree = "<group>"; };
 		C41C682A2A2881530045828D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C43F72222A31DA7B00705735 /* MaskAppleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskAppleView.swift; sourceTree = "<group>"; };
+		C43F72242A31DB2000705735 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C43F72262A31DB6900705735 /* ClippingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClippingView.swift; sourceTree = "<group>"; };
+		C43F72282A31DC5800705735 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C43F722A2A31DCDE00705735 /* GradientTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientTextView.swift; sourceTree = "<group>"; };
+		C43F722C2A31DD2600705735 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C43F722E2A31DDA700705735 /* AppleHomePod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleHomePod.swift; sourceTree = "<group>"; };
+		C43F72322A31DFEC00705735 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C43F72342A31E00700705735 /* AppleAlbumIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleAlbumIcon.swift; sourceTree = "<group>"; };
+		C43F72362A31E09B00705735 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C43F72382A31E0D100705735 /* DashedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashedView.swift; sourceTree = "<group>"; };
+		C43F723A2A31E14D00705735 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C43F723C2A31E17500705735 /* FlipView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipView.swift; sourceTree = "<group>"; };
+		C43F723E2A31E24E00705735 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C43F72402A31E26B00705735 /* DashesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashesView.swift; sourceTree = "<group>"; };
+		C43F72422A31E40200705735 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C43F72442A31E43C00705735 /* GradientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsView.swift; sourceTree = "<group>"; };
+		C43F72462A31E47F00705735 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C43F72492A31E4B300705735 /* RotateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateView.swift; sourceTree = "<group>"; };
+		C43F724B2A31E51500705735 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C43F724D2A31E53E00705735 /* RotateViewsSArountAPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateViewsSArountAPoint.swift; sourceTree = "<group>"; };
+		C43F724F2A31E5C400705735 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C4FDA54A2A2B152D00707632 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C4FDA54D2A2B186F00707632 /* MenuExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuExampleView.swift; sourceTree = "<group>"; };
 		C4FDA5502A2B193D00707632 /* TabExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabExampleView.swift; sourceTree = "<group>"; };
@@ -95,6 +128,17 @@
 		C41C67FA2A28775A0045828D /* SwiftUIForDesigners */ = {
 			isa = PBXGroup;
 			children = (
+				C43F724C2A31E52600705735 /* rotate-views-around-a-point */,
+				C43F72482A31E49100705735 /* rotate-view */,
+				C43F72432A31E40B00705735 /* gradients */,
+				C43F723F2A31E25800705735 /* dashes */,
+				C43F723B2A31E15B00705735 /* flip-view */,
+				C43F72372A31E0B700705735 /* dash-view */,
+				C43F72332A31DFF500705735 /* draw_photo_icon_hue_rotation */,
+				C43F722D2A31DD9400705735 /* swiftui_as_a_design_tools */,
+				C43F72292A31DCCC00705735 /* mask-gradients */,
+				C43F72252A31DB6100705735 /* clipping */,
+				C43F72212A31DA5100705735 /* mask */,
 				C4FDA5672A2B1F4B00707632 /* video */,
 				C4FDA5632A2B1D9B00707632 /* list-appearence */,
 				C4FDA55D2A2B1C0000707632 /* diffused-shadow */,
@@ -186,6 +230,105 @@
 				C41C682A2A2881530045828D /* README.md */,
 			);
 			path = stroke_vs_strokeborder;
+			sourceTree = "<group>";
+		};
+		C43F72212A31DA5100705735 /* mask */ = {
+			isa = PBXGroup;
+			children = (
+				C43F72222A31DA7B00705735 /* MaskAppleView.swift */,
+				C43F72242A31DB2000705735 /* README.md */,
+			);
+			path = mask;
+			sourceTree = "<group>";
+		};
+		C43F72252A31DB6100705735 /* clipping */ = {
+			isa = PBXGroup;
+			children = (
+				C43F72262A31DB6900705735 /* ClippingView.swift */,
+				C43F72282A31DC5800705735 /* README.md */,
+			);
+			path = clipping;
+			sourceTree = "<group>";
+		};
+		C43F72292A31DCCC00705735 /* mask-gradients */ = {
+			isa = PBXGroup;
+			children = (
+				C43F722A2A31DCDE00705735 /* GradientTextView.swift */,
+				C43F722C2A31DD2600705735 /* README.md */,
+			);
+			path = "mask-gradients";
+			sourceTree = "<group>";
+		};
+		C43F722D2A31DD9400705735 /* swiftui_as_a_design_tools */ = {
+			isa = PBXGroup;
+			children = (
+				C43F722E2A31DDA700705735 /* AppleHomePod.swift */,
+				C43F72322A31DFEC00705735 /* README.md */,
+			);
+			path = swiftui_as_a_design_tools;
+			sourceTree = "<group>";
+		};
+		C43F72332A31DFF500705735 /* draw_photo_icon_hue_rotation */ = {
+			isa = PBXGroup;
+			children = (
+				C43F72342A31E00700705735 /* AppleAlbumIcon.swift */,
+				C43F72362A31E09B00705735 /* README.md */,
+			);
+			path = draw_photo_icon_hue_rotation;
+			sourceTree = "<group>";
+		};
+		C43F72372A31E0B700705735 /* dash-view */ = {
+			isa = PBXGroup;
+			children = (
+				C43F72382A31E0D100705735 /* DashedView.swift */,
+				C43F723A2A31E14D00705735 /* README.md */,
+			);
+			path = "dash-view";
+			sourceTree = "<group>";
+		};
+		C43F723B2A31E15B00705735 /* flip-view */ = {
+			isa = PBXGroup;
+			children = (
+				C43F723C2A31E17500705735 /* FlipView.swift */,
+				C43F723E2A31E24E00705735 /* README.md */,
+			);
+			path = "flip-view";
+			sourceTree = "<group>";
+		};
+		C43F723F2A31E25800705735 /* dashes */ = {
+			isa = PBXGroup;
+			children = (
+				C43F72402A31E26B00705735 /* DashesView.swift */,
+				C43F72422A31E40200705735 /* README.md */,
+			);
+			path = dashes;
+			sourceTree = "<group>";
+		};
+		C43F72432A31E40B00705735 /* gradients */ = {
+			isa = PBXGroup;
+			children = (
+				C43F72442A31E43C00705735 /* GradientsView.swift */,
+				C43F72462A31E47F00705735 /* README.md */,
+			);
+			path = gradients;
+			sourceTree = "<group>";
+		};
+		C43F72482A31E49100705735 /* rotate-view */ = {
+			isa = PBXGroup;
+			children = (
+				C43F72492A31E4B300705735 /* RotateView.swift */,
+				C43F724B2A31E51500705735 /* README.md */,
+			);
+			path = "rotate-view";
+			sourceTree = "<group>";
+		};
+		C43F724C2A31E52600705735 /* rotate-views-around-a-point */ = {
+			isa = PBXGroup;
+			children = (
+				C43F724D2A31E53E00705735 /* RotateViewsSArountAPoint.swift */,
+				C43F724F2A31E5C400705735 /* README.md */,
+			);
+			path = "rotate-views-around-a-point";
 			sourceTree = "<group>";
 		};
 		C4FDA5492A2B151700707632 /* gpt_give_instructions_for_swiftui */ = {
@@ -331,20 +474,31 @@
 			buildActionMask = 2147483647;
 			files = (
 				C41C681A2A287BE60045828D /* MenuView.swift in Sources */,
+				C43F723D2A31E17500705735 /* FlipView.swift in Sources */,
 				C41C67FE2A28775A0045828D /* ContentView.swift in Sources */,
 				C4FDA54E2A2B186F00707632 /* MenuExampleView.swift in Sources */,
+				C43F724A2A31E4B300705735 /* RotateView.swift in Sources */,
+				C43F722B2A31DCDE00705735 /* GradientTextView.swift in Sources */,
 				C41C68292A2881440045828D /* DifferentStokeType.swift in Sources */,
+				C43F724E2A31E53E00705735 /* RotateViewsSArountAPoint.swift in Sources */,
 				C4FDA5692A2B1F6500707632 /* VideoPlayerContainer.swift in Sources */,
+				C43F72272A31DB6900705735 /* ClippingView.swift in Sources */,
 				C4FDA5652A2B1DAA00707632 /* ListAppearanceView.swift in Sources */,
+				C43F722F2A31DDA700705735 /* AppleHomePod.swift in Sources */,
+				C43F72452A31E43C00705735 /* GradientsView.swift in Sources */,
 				C41C681F2A287CC60045828D /* SwiftUIColorSystem.swift in Sources */,
+				C43F72232A31DA7B00705735 /* MaskAppleView.swift in Sources */,
 				C4FDA5572A2B1A0100707632 /* ToolbarViewExampl;e.swift in Sources */,
 				C4FDA55B2A2B1B5200707632 /* ToolbarItemGroupExampleView.swift in Sources */,
 				C4FDA55F2A2B1C3F00707632 /* DiffusedShadows.swift in Sources */,
 				C41C67FC2A28775A0045828D /* SwiftUIForDesignersApp.swift in Sources */,
+				C43F72392A31E0D100705735 /* DashedView.swift in Sources */,
 				C41C68102A2878E40045828D /* DynamicHeightModal.swift in Sources */,
 				C4FDA5512A2B193D00707632 /* TabExampleView.swift in Sources */,
 				C41C68222A287DD00045828D /* UnderstandingLayoutPriority.swift in Sources */,
 				C41C680B2A28779C0045828D /* CollapsibleListView.swift in Sources */,
+				C43F72352A31E00700705735 /* AppleAlbumIcon.swift in Sources */,
+				C43F72412A31E26B00705735 /* DashesView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
