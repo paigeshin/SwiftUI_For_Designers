@@ -1,0 +1,38 @@
+```swift
+struct ZoomEffect: View {
+    
+    @State var untapped = true
+    @Namespace var zoom
+    
+    var body: some View {
+        ZStack {
+            if self.untapped {
+                Image("img2")
+                    .resizable()
+                    .matchedGeometryEffect(id: "photo", in: self.zoom)
+                    .clipShape(Circle())
+                    .frame(width: 300, height: 300, alignment: .center)
+//                    .blendMode(.difference)
+            } else {
+                ZStack {
+                    
+                    Image("img2")
+                        .resizable()
+                        .matchedGeometryEffect(id: "photo", in: self.zoom)
+                        .aspectRatio(contentMode: .fill)
+//                        .blendMode(.difference)
+                        .ignoresSafeArea()
+                    
+                    Text("Mountain")
+                        .font(.largeTitle)
+                        .foregroundColor(.white)
+                }
+            }
+        }
+        .animation(.interpolatingSpring(stiffness: 50, damping: 15), value: self.untapped)
+        .onTapGesture {
+            self.untapped.toggle()
+        }
+    }
+}
+```
